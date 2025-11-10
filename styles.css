@@ -3,3 +3,24 @@ body{
     font-family: Arial, sans-serif;
     color: darkblue;
 }
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: navy;
+}
+
+p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10px;
+}
